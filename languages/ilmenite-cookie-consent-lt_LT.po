@@ -28,7 +28,7 @@ msgid ""
 "social media features. <a href=\"%s\" rel=\"nofollow\">Privacy and cookies "
 "policy ›</a>."
 msgstr ""
-"Mes naudojame slapukus, kad analizuotume savo srautą, suasmeninsime "
+"Mes naudojame slapukus, kad analizuotume savo srautą, suasmenintume "
 "rinkodarą ir suteiktume socialinės žiniasklaidos funkcijas. <a href=\"%s\" "
 "rel=\"nofollow\">Privatumo ir slapukų politika ›</a>."
 
